@@ -8,8 +8,7 @@
   ],
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -cw",
-    "postinstall": "yarn build"
+    "start": "rollup -cw"
   },
   "repository": {
     "type": "git",
