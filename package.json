@@ -11,7 +11,7 @@
     "test-manual": "guesswork --entry test/index.js",
     "build": "rollup -c",
     "start": "rollup -cw",
-    "prepublish": "yarn build"
+    "preinstall": "yarn build"
   },
   "repository": {
     "type": "git",
